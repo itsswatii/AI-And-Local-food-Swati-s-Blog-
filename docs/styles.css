@@ -1,0 +1,35 @@
+/* css styles */
+
+body 
+{
+   background-color:#f9faf5;
+}
+
+/*heading color*/
+h4 {
+  color: #683b2b; //
+}
+
+
+/*heading font*/
+
+h4 {
+  font-family: "Arial", sans-serif; // Set Arial font for h4
+}
+
+h2 {
+  font-family: "Georgia", serif; // Set Georgia font for h2
+}
+
+/*body font*/
+
+body {
+  font-family: "Arial", sans-serif; // Set Helvetica font for body text
+}
+
+
+
+<div class="image-container" style="background-color: #f9faf4;">
+  <img src="/posts/5th_week_wrap_up/images/12-weeks-w6.jpg" alt="Image">
+</div>
+
