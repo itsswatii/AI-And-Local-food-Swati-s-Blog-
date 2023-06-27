@@ -1,0 +1,12 @@
+---
+title: "AI And Local food"
+listing:
+  contents: posts
+  fields: [image, date, title, author, reading-time]
+  sort: "date desc"
+  type: default
+  categories: true
+  filter-ui: false
+page-layout: full
+title-block-banner: true
+---
